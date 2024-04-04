@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AZR88
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Js,C#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning flutter 
 - 📫 How to reach me DM at @Ziel_88
 
 <!---
