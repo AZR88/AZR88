@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AZR88
-- 👀 I’m interested in Gaming
+- 👋 Hi, I’m Azriel Amaldany
+- 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning flutter 
 - 📫 How to reach me DM at @Ziel_88
 
