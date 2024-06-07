@@ -8,4 +8,4 @@
 <p align='left'> <img src='https://komarev.com/ghpvc/?username=AZR88&style=flat-square&color=yellow' alt='AZR88' /> </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AZR88&theme=ads-juicy-fresh&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZR88&theme=ads-juicy-fresh&show_icons=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZR88&theme=radical&show_icons=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)
