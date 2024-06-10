@@ -1,5 +1,5 @@
 # Hey 👋, This is Azriel Amalday!
-[![Gmail Badge](https://img.shields.io/badge/azrielamaldany@gmail.com-143?style=for-the-badge&logo=gmail&logoColor=black&color=white&labelColor=yellow&link=mailto:azrielamaldany@gmail.com)](mailto:azrielamaldany@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/azrielamaldany@gmail.com-143?style=for-the-badge&logo=gmail&logoColor=black&color=black&labelColor=yellow&link=mailto:azrielamaldany@gmail.com)](mailto:azrielamaldany@gmail.com) 
 <p align='left'>👋 Hi there! I'm a student at the Faculty of Computer Science, University of Jember, majoring in Information Technology. Passionate about testing, Front-End. Let's build something amazing together!</p>
 
 ---
